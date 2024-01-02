@@ -1,5 +1,5 @@
 # evil-portal_extractor
-Script that extracts the login data from the evil portal log
+Script that extracts the login data from the evil portal log file
 ## IMPORTANT
 You have to update the log name before **every** extraction.  
 Add the python script inside the folders where the logs are located or change the file path  
